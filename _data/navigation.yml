@@ -1,7 +1,9 @@
 # specify main menu items here
 
-- text: Posts
+- text: Home
   url: /
+- text: Posts
+  url: /blog
 - text: About
   url: /about
 - text: Contact
