@@ -7,7 +7,7 @@ intro_paragraph: |-
   You can contact me via:   
 
 
-  Email -[ sriraj.aiyer@psy.ox.ac.uk](sriraj.aiyer@psy.ox.ac.uk)  
+  Email -[ sriraj.aiyer@psy.ox.ac.uk](mailto:sriraj.aiyer@psy.ox.ac.uk)  
 
    
   Twitter - [@AiyerSriraj](https://twitter.com/AiyerSriraj)
