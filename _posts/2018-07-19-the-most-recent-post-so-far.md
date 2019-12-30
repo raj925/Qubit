@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Why I'm Working on an AI to play Blood Bowl
-author: raj_aiyer
-date: '2020-01-05 10:07:32'
+title: The most recent post so far
+author: john_doe
+date: '2018-07-19 10:07:32'
 intro_paragraph: ''
 categories: misc
 ---
