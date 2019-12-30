@@ -4,7 +4,8 @@ title: Contact
 permalink: /contact
 section: contact
 intro_paragraph: |-
-  You can contact me via:
+  You can contact me via:   
+
 
   Email -[ sriraj.aiyer@psy.ox.ac.uk](sriraj.aiyer@psy.ox.ac.uk)  
 
