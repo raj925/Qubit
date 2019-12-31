@@ -10,6 +10,8 @@ intro_paragraph: |-
 
   Twitter - [@AiyerSriraj](https://twitter.com/AiyerSriraj) </br>
 
-  Linkedin - [srirajaiyer](https://www.linkedin.com/in/srirajaiyer/)
+  Linkedin - [srirajaiyer](https://www.linkedin.com/in/srirajaiyer/) </br>
+
+  Or you can fill in the form below!
 ---
 - - -
