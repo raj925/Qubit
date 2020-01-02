@@ -4,6 +4,9 @@ title: About
 permalink: /about
 section: about
 intro_paragraph: >-
+  ![](/assets/img/uploads/pp.jpg)
+
+
   #### Hello! My name is Sriraj Aiyer. I am currently researching at the
   University of Oxford's Department of Experimental Psychology. I work in the
   Attention and Cognitive Control Lab, looking at metacognition as well as trust
