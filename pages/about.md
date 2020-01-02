@@ -4,7 +4,7 @@ title: About
 permalink: /about
 section: about
 intro_paragraph: >-
-  ![](/assets/img/uploads/pp.jpg)
+  ![]()
 
 
   #### Hello! My name is Sriraj Aiyer. I am currently researching at the
